@@ -1,4 +1,3 @@
-console.log("Hello")
 
 // **  Git All command -------------->>>>>>>>>
 
